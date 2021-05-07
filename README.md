@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**anthlasserre/anthlasserre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Anthony, a french full stack developer currently living in Bask Country 🏄 &nbsp; and working for [.mind](https://github.com/dotmind) from home 🏡
 
-Here are some ideas to get you started:
+# 👨🏼‍💻 Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ***REMOVED***: ...
-- ***REMOVED***: ...
--->
+I actually work for [.mind](https://github.com/dotmind) as a Full Stack Developer.
+
+
+# 🎸 Side project
+
+I'm actually working on a big project in sport. Can't say anymore but stay tuned 🎸
+
+# 🙌🏼 Open source
+
+As a full stack developer I contributed on different projects like:
+- [rn-shadow-generator](https://github.com/dotmind/rn-shadow-generator)
+- [react-native-gif-search](https://github.com/Thanasis1101/react-native-gif-search)
+- [node-mongo-dump](https://github.com/dotmind/node-mongo-dump)
+- [react-native-anchor-point](https://github.com/sueLan/react-native-anchor-point)
+
+# 💬 Get in touch
+
+- Twitter [@anthlasserre](https://twitter.com/anthlasserre)
+- LinkedIn [anthonylasserre](https://www.linkedin.com/in/anthonylasserre/)
