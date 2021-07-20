@@ -1,11 +1,13 @@
 # Hi there 👋
 
-I'm Anthony, a french full stack developer currently living in Bask Country 🏄 &nbsp; and working for [.mind](https://github.com/dotmind) from home 🏡 <br />
-Rugby player & passionate 🏉
+ 🏄 I'm Anthony, a french full stack developer currently living in Bask Country<br />
+ 🏡 Working for [Luko](https://luko.eu/) from home<br />
+ 🏉 Rugby player & passionate
 
 # 👨🏼‍💻 Work
 
-I actually work for [.mind](https://github.com/dotmind) as a Full Stack Developer.
+I worked for [.mind](https://github.com/dotmind) as a Full Stack Developer.<br />
+I actually work for [Luko](https://luko.eu/) as a Mobile App Developer.<br/>
 
 # 🎸 Side project
 
