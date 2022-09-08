@@ -1,21 +1,22 @@
 # Hi there 👋
 
- 🏄 I'm Anthony, a french full stack developer currently living in Bask Country<br />
- 🏡 Working for [Luko](https://luko.eu/) from home<br />
+ 🏄 I'm Anthony, a french full stack developer currently living in Landes Country (Landifornian)<br />
+ 🏡 Working for [Luko](https://luko.eu/) from home as a Mobile App Engineer<br />
  🏉 Rugby player & passionate
 
 # 👨🏼‍💻 Work
 
 I worked for [.mind](https://github.com/dotmind) as a Full Stack Developer.<br />
-I actually work for [Luko](https://luko.eu/) as a Mobile App Developer.<br/>
+I'm currently working for [Luko](https://luko.eu/) as a Mobile App Developer.<br/>
 
 # 🎸 Side project
 
-I'm actually working on a sport project. Can't say anymore but stay tuned 🎸
+In parallel I'm working on [monapp.club](https://monapp.club/) project. A white label app for sport clubs.
 
 # 🙌🏼 Open source
 
 As a full stack developer I contributed on different projects like:
+- [eslint-react-native-guidelines](https://github.com/GetLuko/eslint-react-native-guidelines)
 - [rn-shadow-generator](https://github.com/dotmind/rn-shadow-generator)
 - [appscanner-cli](https://github.com/dotmind/appscanner-cli)
 - [react-native-gif-search](https://github.com/Thanasis1101/react-native-gif-search)
