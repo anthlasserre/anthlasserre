@@ -1,14 +1,14 @@
 # Hi there 👋
 
  🏄 I'm Anthony, a french full stack developer currently living in Landes Country, France (alias Landifornian)<br />
- 🏡 Working for [Stadion]([https://luko.eu/](https://www.stadion.io/) from home as a Mobile Engineer<br />
+ 🏡 Working for [Stadion](https://www.stadion.io/) from home as a Mobile Engineer<br />
  🏉 Rugby player & passionate
 
 # 👨🏼‍💻 Work
 
 I worked for [.mind](https://github.com/dotmind) as a Full Stack Developer.<br />
 I worked for [Luko](https://luko.eu/) as a Mobile Developer.<br />
-I'm currently working for [Stadion]([https://luko.eu/](https://www.stadion.io/) as a Mobile Engineer<br/>
+I'm currently working for [Stadion](https://www.stadion.io/) as a Mobile Engineer<br/>
 
 # 🎸 Side project
 
