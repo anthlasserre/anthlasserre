@@ -1,22 +1,23 @@
 # Hi there 👋
 
- 🏄 I'm Anthony, a french full stack developer currently living in Landes Country, France (alias Landifornian)<br />
- 🏡 Working for [Stadion](https://www.stadion.io/) from home as a Mobile Engineer<br />
- 🏉 Rugby player & passionate
+ 🏄 I'm Anthony, a French Senior Software Engineer currently living in **Landes Country**, France (alias Landifornian)<br />
+ 🏡 Working for [Stadion](https://www.stadion.io/) from home as a Senior Software Engineer<br />
+ 🏉 Rugby player & Passionate
 
 # 👨🏼‍💻 Work
 
+I'm currently working for [Stadion](https://www.stadion.io/) as a Senior Software Engineer mainly on [React Native](https://reactnative.dev/) projects.<br/>
 I worked for [.mind](https://github.com/dotmind) as a Full Stack Developer.<br />
 I worked for [Luko](https://luko.eu/) as a Mobile Developer.<br />
-I'm currently working for [Stadion](https://www.stadion.io/) as a Mobile Engineer<br/>
 
 # 🎸 Side project
 
-In parallel I'm working on [monapp.club](https://monapp.club/) project. A white label app for sport clubs.
+In parallel I'm working on [monapp.club](https://monapp.club/) project. A white-label app for sports clubs.
 
 # 🙌🏼 Open source
 
 As a full stack developer I contributed on different projects like:
+- [react-native-live-activity](https://github.com/cristianoalves92/react-native-live-activity)
 - [eslint-react-native-guidelines](https://github.com/GetLuko/eslint-react-native-guidelines)
 - [rn-shadow-generator](https://github.com/dotmind/rn-shadow-generator)
 - [appscanner-cli](https://github.com/dotmind/appscanner-cli)
