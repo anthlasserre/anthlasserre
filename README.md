@@ -1,6 +1,6 @@
 # Hi there 👋
 
- 🏄 I'm Anthony, a French Senior Software Engineer currently living in **Landes Country**, France (alias Landifornian)<br />
+ 🏄 I'm Anthony, a French Senior Software Engineer currently living in **[Landes Country](https://www.landes-holidays.com/explore-the-destination/experiences-in-the-landes/)**, France (alias Landifornian)<br />
  🏡 Working for [Stadion](https://www.stadion.io/) from home as a Senior Software Engineer<br />
  🏉 Rugby player & Passionate
 
@@ -17,6 +17,8 @@ In parallel I'm working on [monapp.club](https://monapp.club/) project. A white-
 # 🙌🏼 Open source
 
 As a full stack developer I contributed on different projects like:
+- [adyen-react-native](https://github.com/Adyen/adyen-react-native)
+- [react-native-viewport-detector](https://github.com/thinhkhang97/react-native-viewport-detector)
 - [react-native-live-activity](https://github.com/cristianoalves92/react-native-live-activity)
 - [eslint-react-native-guidelines](https://github.com/GetLuko/eslint-react-native-guidelines)
 - [rn-shadow-generator](https://github.com/dotmind/rn-shadow-generator)
@@ -33,10 +35,7 @@ As a full stack developer I contributed on different projects like:
 <img align="left" alt="redux" src="https://img.shields.io/badge/redux%20-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white" />
 <img align="left" alt="fastlane" src="https://img.shields.io/badge/fastlane%20-00F200.svg?&style=for-the-badge&logo=fastlane&logoColor=white" />
 <img align="left" alt="storybook" src="https://img.shields.io/badge/storybook%20-FF4785.svg?&style=for-the-badge&logo=storybook&logoColor=white" />
-
-
-<img style="float:left; margin: 10px;" alt="nextjs" src="https://img.shields.io/badge/next.js%20-000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
-
+<img aligh="left" alt="nextjs" src="https://img.shields.io/badge/next.js%20-000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 <img align="left" alt="mongodb" src="https://img.shields.io/badge/mongodb%20-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
