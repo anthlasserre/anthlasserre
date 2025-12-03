@@ -12,7 +12,9 @@ I worked for [Luko](https://luko.eu/) as a Mobile Developer.<br />
 
 # 🎸 Side project
 
-In parallel I'm working on [monapp.club](https://monapp.club/) project. A white-label app for sports clubs.
+In parallel, I'm working on:
+- [monapp.club](https://monapp.club/). A white-label app for sports clubs.
+- [tournoi.co](https://tournoi.co/). A SaaS platform to organise and follow live sports tournaments
 
 # 🙌🏼 Open source
 
