@@ -1,20 +1,15 @@
 # Hi there 👋
 
  🏄 I'm Anthony, a French Senior Software Engineer currently living in **[Landes Country](https://www.landes-holidays.com/explore-the-destination/experiences-in-the-landes/)**, France (alias Landifornian)<br />
- 🏡 Working for [Stadion](https://www.stadion.io/) from home as a Senior Software Engineer<br />
+ 🏡 Founder of [TOURNOI.CO](https://www.tournoi.co/) <br />
  🏉 Rugby player & Passionate
 
 # 👨🏼‍💻 Work
 
-I'm currently working for [Stadion](https://www.stadion.io/) as a Senior Software Engineer mainly on [React Native](https://reactnative.dev/) projects.<br/>
+I'm currently working on [TOURNOI.CO](https://www.tournoi.co/) the best solution to organise your tournaments
+I worked for [Stadion](https://www.stadion.io/) as a Senior Software Engineer mainly on [React Native](https://reactnative.dev/) projects.<br/>
 I worked for [.mind](https://github.com/dotmind) as a Full Stack Developer.<br />
 I worked for [Luko](https://luko.eu/) as a Mobile Developer.<br />
-
-# 🎸 Side project
-
-In parallel, I'm working on:
-- [monapp.club](https://monapp.club/). A white-label app for sports clubs.
-- [tournoi.co](https://tournoi.co/). A SaaS platform to organise and follow live sports tournaments
 
 # 🙌🏼 Open source
 
